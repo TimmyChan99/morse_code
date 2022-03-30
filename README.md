@@ -1,56 +1,40 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# # Morse Code
 
-> Description the project.
-
+> This is a Ruby Tutorial project that decodes morse code into English alphabet
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- RUBY
+- TERMINAL
+- IRB
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Start by cloning the repository.
 
+`git clone git@github.com:TimmyChan99/morse_code.git`
 
-To get a local copy up and running follow these simple example steps.
+Navigate to the created folder.
 
-### Prerequisites
+`cd morse_code`
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+Have fun with morse code translation.
 
 ## Authors
 
-👤 **Author1**
+👤 **Fatima Ezzahra**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@TimmyChan99](https://github.com/TimmyChan99)
+- Twitter: [@elemenoun](https://twitter.com/elemenoun)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/fatima-ezzahra-elemenoun-020841225/)
 
-👤 **Author2**
+👤 **Pedro Guerreiro**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@guerreiropedr0](https://github.com/guerreiropedr0)
+- Twitter: [@guerreiropedr0](https://twitter.com/guerreiropedr0)
+- LinkedIn: [Pedro Guerreiro](https://www.linkedin.com/in/guerreiropedr0/)
 
 ## 🤝 Contributing
 
@@ -61,12 +45,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
