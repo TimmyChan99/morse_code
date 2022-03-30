@@ -40,4 +40,15 @@ def decode_word (word)
 	 }
 	 return trs_word
 end
-decode_word("-- -.--")
+
+def decode(phrase)
+  trs_phrase = ""
+  phrase.split("   ").each {
+    |word|
+    trs_phrase.concat(decode_word(word)).concat(" ")
+  }
+  return trs_phrase.upcase
+end
+
+decode("      .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")
+# A BOX FULL OF RUBIES
