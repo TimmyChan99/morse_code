@@ -28,7 +28,7 @@
 }
 
 def decode_char (char) 
-return @morse_code[char]
+return @morse_code[char].upcase
 end
 
 
@@ -47,8 +47,8 @@ def decode(phrase)
     |word|
     trs_phrase.concat(decode_word(word)).concat(" ")
   }
-  return trs_phrase.upcase
+  return trs_phrase
 end
 
-decode("      .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")
+puts decode("      .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")
 # A BOX FULL OF RUBIES
